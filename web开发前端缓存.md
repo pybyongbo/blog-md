@@ -23,7 +23,7 @@ date: 2018-03-20 20:03:53
 ```
 <!--more-->
 
-![DNS实际解析图](http://upload-images.jianshu.io/upload_images/735918-19380e39f12aef7d.png?imageMogr2/auto-orient/strip)
+![DNS实际解析图](https://images.901web.com/2018-12-02-735918-19380e39f12aef7d.png)
 
 
 ### 科普二
