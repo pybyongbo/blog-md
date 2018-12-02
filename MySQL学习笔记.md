@@ -1,5 +1,5 @@
 ---
-title:MySQL 学习笔记
+title: Mysql学习笔记
 tags:
   - Mysql
 categories: Mysql
